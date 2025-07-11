@@ -1,11 +1,11 @@
 1. PRODIGY_CYBERSECURITY_04 - Simple Keylogger
 
-This is a Python project that creates a simple keylogger program to capture and store keystrokes.  
-It was developed as part of the Cyber Security Internship offered by Prodigy Infotech.
+ This is a Python project that creates a simple keylogger program to capture and store keystrokes.  
+ It was developed as part of the Cyber Security Internship offered by Prodigy Infotech.
 
 2.  What This Project Does
 
-This tool listens to your keyboard and:
+ This tool listens to your keyboard and:
 
 - Records every key you press (letters, numbers, symbols, etc.)
 - Logs special keys like **space**, **enter**, **backspace**
@@ -18,14 +18,10 @@ This tool listens to your keyboard and:
 
 4. Requirements
 
-Make sure you have:
+ Make sure you have:
 
 - **Python 3** installed
-- The **pynput** library
-
-Install the required library by running:
-```bash
-pip install pynput
+- The **pynput** library Install the required library by running```bash pip install pynput
 
 5. How to run the program
 
