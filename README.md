@@ -1,5 +1,5 @@
 1. PRODIGY_CYBERSECURITY_04 - Simple Keylogger
-
+ 
  This is a Python project that creates a simple keylogger program to capture and store keystrokes.  
  It was developed as part of the Cyber Security Internship offered by Prodigy Infotech.
 
